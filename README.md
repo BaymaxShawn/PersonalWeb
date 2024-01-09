@@ -1,4 +1,3 @@
-Deploy on Firebase 
+# Deploy on Firebase 
+It is my profile.
 Link: https://shawnhuwebsite.web.app/
-# django-quiz-app
-It is django based quiz app for multiple choice questions.
